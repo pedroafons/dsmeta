@@ -1,0 +1,15 @@
+.dsmeta-green-btn {
+    height: 45px;
+    width: 45px;
+    background: rgba(13, 110, 0, 0.1);
+    border: 1px solid #79ff67;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.dsmeta-green-btn img {
+    width: 19px;
+}
