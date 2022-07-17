@@ -67,7 +67,7 @@ Por último o *deploy* foi feito pelo Netlify.
 
 ## Notas finais
 
-No curto período de uma semana tive um grande aprendizado, conheci novas tecnologias e novas funções e métodos para as que eu já conhecia e venho estudando há um tempo.
+No curto período de uma semana tive um grande aprendizado, conheci novas tecnologias e novas funções e métodos para as que eu já conhecia e venho estudando há um tempo. Adquiri conhecimento sobre API REST com Java e Spring Boot; banco de dados com JPA - ORM; ReactJS; Camadas, componentes, boas práticas; integração com SMS e implantação na nuvem com CI/CD.
 
 Gratidão ao mestre [Nélio Alves](https://devsuperior.com.br/) pelo treinamento e pelas valiosas dicas.
 
